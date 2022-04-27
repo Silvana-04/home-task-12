@@ -1,0 +1,27 @@
+.header-logo{
+    padding: 5px;
+}
+
+.navbar{
+    margin-left: -25px;
+}
+
+.button{
+    float: right;
+    width: 100px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+div.col-md-8 .btn{
+    float:right;
+    width: 100px;
+}
+
+.align{
+    text-align: center;
+}
+
+.margin{
+    margin-top: 20px;
+}
